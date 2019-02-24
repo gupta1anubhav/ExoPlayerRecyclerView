@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_63">#a1000000</color>
+    <color name="colorAccent">#ffff4081</color>
+    <color name="colorPrimary">#ff3f51b5</color>
+    <color name="colorPrimaryDark">#ff303f9f</color>
+    <color name="cool_grey">#ff9fa6b0</color>
+    <color name="duck_egg_blue">#ffd6f1f9</color>
+    <color name="exo_edit_mode_background_color">#fff4f3f0</color>
+    <color name="ic_launcher_background">#ffcea525</color>
+    <color name="navy">#ff021430</color>
+    <color name="sick_green">#ffacd433</color>
+    <color name="twilight_blue">#ff0a316d</color>
+    <color name="white">#ffffffff</color>
+    <color name="windows_blue">#ff3495af</color>
+</resources>
