@@ -123,7 +123,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
 
         when (id) {
-
+            //to be implemented. Just shown
         }
         drawer_layout.closeDrawer(GravityCompat.START)
         return true
