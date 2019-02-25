@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
 
     lateinit var rvFeed: ExoPlayerRecyclerView
-
     private val videoPojoList = ArrayList<VideoPojo>()
     private var mAdapter: ExoRecyclerViewAdapter? = null
     private var isFirstTime = true
